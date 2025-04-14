@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 박민영 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 영남대학교 4학년 재학중 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 영남대학교 컴퓨터공학과 4학년 재학중 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
